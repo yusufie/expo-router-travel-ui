@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-router-travel-ui",
-    "slug": "expo-router-travel-ui",
+    "name": "expo-travel-app",
+    "slug": "expo-travel-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -12,6 +12,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
